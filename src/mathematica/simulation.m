@@ -1,7 +1,7 @@
 (* :Mathematica Version: 12.0 *)
 (* :Copyright: (c) 2019 atom-sun *)
 
-(* :Title: CountPigs *)
+(* :Title: CountPigs Simulation *)
 (* :Author: Ning Sun *)
 (* :Date: 2019-11-01 *)
 
